@@ -1,4 +1,4 @@
-//week04-11_moon_setture_translate-roate
+//week04-11_sum_setture_translate-roate
 PShape sun;
 void setup(){
   size(400,400,P3D);
